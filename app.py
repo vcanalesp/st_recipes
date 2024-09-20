@@ -39,7 +39,7 @@ def cs_sidebar():
     st.sidebar.title("¿Qué voy a comer hoy?")
 
    
-    logo_url = "https://raw.githubusercontent.com/Seth-Nut/st_recipes/main/images/icons/cake.png"
+    logo_url = "images/icons/cake.png"
     st.sidebar.image(logo_url, width=200)
 
     with st.sidebar:
