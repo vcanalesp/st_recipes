@@ -1,6 +1,7 @@
 # 🍰 ¿Qué Voy a Comer Hoy? Recetas Visuales con Python, OpenAI y Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-custom-subdomain>.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recetas-ai.streamlit.app/)
+
 
 
 ## Descripción
